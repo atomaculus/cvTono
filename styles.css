@@ -1,3 +1,7 @@
+.form-inline {
+  margin-left: 230px;
+}
+
 @media (max-width: 770px) {
   #contact-me textarea {
     width: 50%;
